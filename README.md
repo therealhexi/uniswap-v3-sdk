@@ -13,3 +13,7 @@ Pull requests welcome!
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@uniswap/v3-sdk/latest.svg)](https://bundlephobia.com/result?p=@uniswap/v3-sdk@latest)
 
 In-depth documentation on this SDK is available at [uniswap.org](https://docs.uniswap.org/).
+
+# Test Changes For Pull Request
+Additional changes added in a separate commit
+Changes for addressing comments in test pull request
